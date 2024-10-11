@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
     <key>CFBundleIdentifier</key>
-    <string>com.yourcompany.DockIconHider</string>
+    <string>com.mlhiter.slink</string>
     <key>CFBundleName</key>
-    <string>DockIconHider</string>
+    <string>Slink</string>
     <key>CFBundleVersion</key>
-    <string>1.0</string>
+    <string>0.1</string>
     <key>CFBundleShortVersionString</key>
-    <string>1.0</string>
+    <string>0.1</string>
     <key>NSPrincipalClass</key>
     <string>NSApplication</string>
     <key>NSAppleEventsUsageDescription</key>
-    <string>此应用需要访问系统事件以隐藏/显示 Dock 图标。</string>
+    <string>此应用需要控制其他应用以隐藏/显示 Dock 图标。</string>
 </dict>
 </plist>
